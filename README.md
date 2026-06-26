@@ -1,5 +1,5 @@
   # Tales 4 Tots - Support
 
-  For support, email: mike@mayes.com
+  For support, email: aighostwriter@mayes.com
 
   [Privacy Policy](privacy.html)
